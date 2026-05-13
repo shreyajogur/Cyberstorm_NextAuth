@@ -1,5 +1,5 @@
 # NexAuth
-https://cyberstorm-nextauth.onrender.com
+https://cyberstorm-next-auth.vercel.app
 
 > Self-hosted authentication with AI-powered security. One line of code to integrate. Zero third-party data exposure.
 
